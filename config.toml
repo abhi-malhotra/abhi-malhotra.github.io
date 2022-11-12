@@ -1,4 +1,4 @@
-baseURL = 'https://www.abhimalhotra.com'
+baseURL = 'https://www.abhishekmalhotra.cnet'
 languageCode = 'en-us'
 title = 'Abhishek Malhotra'
 defaultContentLanguage = "en-us"
@@ -191,7 +191,3 @@ canonifyurls = true
   # Customize link of author avatar in sidebar
   # [params.sidebar.profile]
   #   url = "/#about"
-
-  # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
-  # [params.footer]
-  #   copyright = "<a href=\"https://github.com/kakawait\">Abhishek Malhotra</a>"
